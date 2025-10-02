@@ -1,5 +1,6 @@
 # apnacollege-demo
+
 This is my first git repo
 <br>
-Author-Subhajyoti Dutta
+Author-Subhajyoti (Tatai)
 
